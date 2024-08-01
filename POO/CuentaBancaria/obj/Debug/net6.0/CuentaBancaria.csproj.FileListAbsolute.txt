@@ -1,0 +1,14 @@
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.exe
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.deps.json
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.runtimeconfig.json
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.dll
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.pdb
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.AssemblyInfo.cs
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.dll
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\refint\CuentaBancaria.dll
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.pdb
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.genruntimeconfig.cache
+C:\Users\fvazquez\source\repos\POO\CuentaBancaria\obj\Debug\net6.0\ref\CuentaBancaria.dll
