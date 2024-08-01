@@ -1,0 +1,14 @@
+C:\Users\fvazquez\source\repos\POO\POO-2\bin\Debug\net6.0\POO-2.exe
+C:\Users\fvazquez\source\repos\POO\POO-2\bin\Debug\net6.0\POO-2.deps.json
+C:\Users\fvazquez\source\repos\POO\POO-2\bin\Debug\net6.0\POO-2.runtimeconfig.json
+C:\Users\fvazquez\source\repos\POO\POO-2\bin\Debug\net6.0\POO-2.dll
+C:\Users\fvazquez\source\repos\POO\POO-2\bin\Debug\net6.0\POO-2.pdb
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\POO-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\POO-2.AssemblyInfoInputs.cache
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\POO-2.AssemblyInfo.cs
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\POO-2.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\POO-2.dll
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\refint\POO-2.dll
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\POO-2.pdb
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\POO-2.genruntimeconfig.cache
+C:\Users\fvazquez\source\repos\POO\POO-2\obj\Debug\net6.0\ref\POO-2.dll
