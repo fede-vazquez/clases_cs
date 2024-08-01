@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-4\\POO-4.csproj",
-      "projectName": "POO-4",
-      "projectPath": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-4\\POO-4.csproj",
+      "projectUniqueName": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-4\\Empleado.csproj",
+      "projectName": "Empleado",
+      "projectPath": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-4\\Empleado.csproj",
       "packagesPath": "C:\\Users\\fvazquez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-4\\obj\\",
       "projectStyle": "PackageReference",

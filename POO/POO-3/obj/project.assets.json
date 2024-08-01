@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-3\\POO-3.csproj",
-      "projectName": "POO-3",
-      "projectPath": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-3\\POO-3.csproj",
+      "projectUniqueName": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-3\\DispositivoElectronico.csproj",
+      "projectName": "DispositivoElectronico",
+      "projectPath": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-3\\DispositivoElectronico.csproj",
       "packagesPath": "C:\\Users\\fvazquez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fvazquez\\source\\repos\\POO\\POO-3\\obj\\",
       "projectStyle": "PackageReference",
