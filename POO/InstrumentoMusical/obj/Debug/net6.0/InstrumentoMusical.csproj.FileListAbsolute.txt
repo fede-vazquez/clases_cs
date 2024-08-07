@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\bin\Debug\net6.0\InstrumentoMusical.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\bin\Debug\net6.0\InstrumentoMusical.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\bin\Debug\net6.0\InstrumentoMusical.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\bin\Debug\net6.0\InstrumentoMusical.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\bin\Debug\net6.0\InstrumentoMusical.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\InstrumentoMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\InstrumentoMusical.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\InstrumentoMusical.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\InstrumentoMusical.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\InstrumentoMusical.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\refint\InstrumentoMusical.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\InstrumentoMusical.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\InstrumentoMusical.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO\InstrumentoMusical\obj\Debug\net6.0\ref\InstrumentoMusical.dll
