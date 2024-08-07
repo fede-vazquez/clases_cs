@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Producto", "Producto\Produc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstrumentoMusical", "InstrumentoMusical\InstrumentoMusical.csproj", "{E06400CE-CC64-4179-89A7-05DA1C6B95AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehiculo2", "Vehiculo2\Vehiculo2.csproj", "{2F2A6559-3EB2-4118-B151-C79FE2BE4F75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{E06400CE-CC64-4179-89A7-05DA1C6B95AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E06400CE-CC64-4179-89A7-05DA1C6B95AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E06400CE-CC64-4179-89A7-05DA1C6B95AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2A6559-3EB2-4118-B151-C79FE2BE4F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2A6559-3EB2-4118-B151-C79FE2BE4F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2A6559-3EB2-4118-B151-C79FE2BE4F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2A6559-3EB2-4118-B151-C79FE2BE4F75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
