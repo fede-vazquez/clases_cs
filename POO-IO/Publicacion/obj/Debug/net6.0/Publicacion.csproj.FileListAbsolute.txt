@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\bin\Debug\net6.0\Publicacion.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\bin\Debug\net6.0\Publicacion.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\bin\Debug\net6.0\Publicacion.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\bin\Debug\net6.0\Publicacion.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\bin\Debug\net6.0\Publicacion.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\Publicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\Publicacion.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\Publicacion.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\Publicacion.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\Publicacion.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\refint\Publicacion.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\Publicacion.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\Publicacion.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Publicacion\obj\Debug\net6.0\ref\Publicacion.dll
