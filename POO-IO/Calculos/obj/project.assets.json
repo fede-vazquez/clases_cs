@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\POO-IO\\Calculos\\Calculos.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Calculos\\Calculos.csproj",
       "projectName": "Calculos",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\POO-IO\\Calculos\\Calculos.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Calculos\\Calculos.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\POO-IO\\Calculos\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Calculos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

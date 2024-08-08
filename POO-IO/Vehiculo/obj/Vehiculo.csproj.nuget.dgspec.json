@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\POO-IO\\Vehiculo\\Vehiculo.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Vehiculo\\Vehiculo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\POO-IO\\Vehiculo\\Vehiculo.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Vehiculo\\Vehiculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\POO-IO\\Vehiculo\\Vehiculo.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Vehiculo\\Vehiculo.csproj",
         "projectName": "Vehiculo",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\POO-IO\\Vehiculo\\Vehiculo.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Vehiculo\\Vehiculo.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\POO-IO\\Vehiculo\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Vehiculo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

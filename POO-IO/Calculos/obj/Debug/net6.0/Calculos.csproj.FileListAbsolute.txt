@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\bin\Debug\net6.0\Calculos.exe
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\bin\Debug\net6.0\Calculos.deps.json
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\bin\Debug\net6.0\Calculos.runtimeconfig.json
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\bin\Debug\net6.0\Calculos.dll
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\bin\Debug\net6.0\Calculos.pdb
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.sourcelink.json
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.dll
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\refint\Calculos.dll
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.pdb
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\Calculos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\mis-repos\clases_cs\POO-IO\Calculos\obj\Debug\net6.0\ref\Calculos.dll

@@ -1,18 +1,18 @@
 ﻿class Vehiculo
 {
     public string Modelo { get; set; }
-    public string Marca { get; set; }
+public string Marca { get; set; }
 
-    public Vehiculo(string modelo, string marca)
-    {
-        Modelo = modelo;
-        Marca = marca;
-    }
+public Vehiculo(string modelo, string marca)
+{
+    Modelo = modelo;
+    Marca = marca;
+}
 
-    public void MostrarInformacion()
-    {
-        Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}");
-    }
+public void MostrarInformacion()
+{
+    Console.WriteLine($"Marca: {Marca}, Modelo: {Modelo}");
+}
 }
 
 class VehiculoCuatroRuedas : Vehiculo
@@ -57,7 +57,7 @@ class Program
 
         Console.Write("Ingrese marca del coche: ");
         marca = Console.ReadLine();
-        
+
         Console.Write("Ingrese modelo del coche: ");
         modelo = Console.ReadLine();
 
