@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\bin\Debug\net6.0\Transporte.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\bin\Debug\net6.0\Transporte.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\bin\Debug\net6.0\Transporte.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\bin\Debug\net6.0\Transporte.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\bin\Debug\net6.0\Transporte.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\Transporte.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\Transporte.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\Transporte.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\refint\Transporte.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\Transporte.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\Transporte.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Transporte\obj\Debug\net6.0\ref\Transporte.dll

@@ -1,6 +1,6 @@
 ﻿class Libro
 {
-    public string Titulo { get; set; }
+public string Titulo { get; set; }
 public string Autor { get; set; }
 public string Genero { get; set; }
 public int NumeroPaginas { get; set; }
@@ -48,8 +48,14 @@ class Program
         Console.Write("Ingrese el número de páginas: ");
         int.TryParse(Console.ReadLine(), out numeroPaginas);
 
-        Libro libro = new Libro(titulo, autor, genero, numeroPaginas);
-
-        libro.MostrarLibro();
+        if (titulo == "" || autor == "" || genero == "" || numeroPaginas <= 0)
+        {
+            Console.WriteLine("Uno de los parametros pasados es incorrecto, compruebe que haya agregado el titulo, autor, genero y que el número de páginas sea mayor a 0.");
+        }
+        else
+        {
+            Libro libro = new Libro(titulo, autor, genero, numeroPaginas);
+            libro.MostrarLibro();
+        }
     }
 }
