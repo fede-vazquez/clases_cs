@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Libro", "Libro\Libro.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehiculo", "Vehiculo\Vehiculo.csproj", "{BA2E92DC-569C-4CC3-96F0-7DE79A146693}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publicacion", "Publicacion\Publicacion.csproj", "{7763B46D-5E52-4436-91A3-817CBCCB7F19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Publicacion", "Publicacion\Publicacion.csproj", "{7763B46D-5E52-4436-91A3-817CBCCB7F19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transporte", "Transporte\Transporte.csproj", "{F93BFCAB-7A8C-4DE2-A7FF-866A797B89F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transporte", "Transporte\Transporte.csproj", "{F93BFCAB-7A8C-4DE2-A7FF-866A797B89F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarjetaIdentificacion", "TarjetaIdentificacion\TarjetaIdentificacion.csproj", "{47EF9818-07F1-4098-9D48-4C863F254262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F93BFCAB-7A8C-4DE2-A7FF-866A797B89F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F93BFCAB-7A8C-4DE2-A7FF-866A797B89F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F93BFCAB-7A8C-4DE2-A7FF-866A797B89F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EF9818-07F1-4098-9D48-4C863F254262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EF9818-07F1-4098-9D48-4C863F254262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EF9818-07F1-4098-9D48-4C863F254262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EF9818-07F1-4098-9D48-4C863F254262}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

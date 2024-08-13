@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\bin\Debug\net6.0\TarjetaIdentificacion.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\bin\Debug\net6.0\TarjetaIdentificacion.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\bin\Debug\net6.0\TarjetaIdentificacion.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\bin\Debug\net6.0\TarjetaIdentificacion.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\bin\Debug\net6.0\TarjetaIdentificacion.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\TarjetaIdentificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\TarjetaIdentificacion.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\TarjetaIdentificacion.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\TarjetaIdentificacion.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\TarjetaIdentificacion.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\refint\TarjetaIdentificacion.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\TarjetaIdentificacion.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\TarjetaIdentificacion.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\TarjetaIdentificacion\obj\Debug\net6.0\ref\TarjetaIdentificacion.dll
