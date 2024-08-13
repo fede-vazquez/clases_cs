@@ -1,4 +1,9 @@
 ﻿// Asociación.
+/*
+ En la empresa "TecSolutions" cada empleado tiene una targeta de identificación personal que contiene su nombre, apellido,
+número de identificación y fecha de emición. La empresa necesita implementar un sistema que gestione a los empleados
+y sus tarjetas de identificación.
+*/
 class TarjetaIdentificacion
 {
 
