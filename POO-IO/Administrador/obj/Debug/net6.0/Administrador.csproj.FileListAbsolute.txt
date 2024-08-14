@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\bin\Debug\net6.0\Administrador.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\bin\Debug\net6.0\Administrador.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\bin\Debug\net6.0\Administrador.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\bin\Debug\net6.0\Administrador.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\bin\Debug\net6.0\Administrador.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.csproj.AssemblyReference.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\refint\Administrador.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\Administrador.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Administrador\obj\Debug\net6.0\ref\Administrador.dll

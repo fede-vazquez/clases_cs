@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transporte", "Transporte\Tr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarjetaIdentificacion", "TarjetaIdentificacion\TarjetaIdentificacion.csproj", "{47EF9818-07F1-4098-9D48-4C863F254262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Productos", "Productos\Productos.csproj", "{E1495362-7158-4B72-8899-AA1472279DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Productos", "Productos\Productos.csproj", "{E1495362-7158-4B72-8899-AA1472279DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Administrador", "Administrador\Administrador.csproj", "{24D203B6-7D04-477D-B190-921F05C7C680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E1495362-7158-4B72-8899-AA1472279DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1495362-7158-4B72-8899-AA1472279DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1495362-7158-4B72-8899-AA1472279DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D203B6-7D04-477D-B190-921F05C7C680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D203B6-7D04-477D-B190-921F05C7C680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D203B6-7D04-477D-B190-921F05C7C680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D203B6-7D04-477D-B190-921F05C7C680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

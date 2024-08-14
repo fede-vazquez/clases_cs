@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hkjP0t6gNNU=",
+  "dgSpecHash": "f1RU3DtzNlDCjt4dbSBxGArpA9ReXj9wL+X+5GxX7O0ylat3gp0TSyzjnZo/5OzO0WKA/H7QxbEqghkKM/nRAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Libro\\Libro.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Libro\\Libro.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
