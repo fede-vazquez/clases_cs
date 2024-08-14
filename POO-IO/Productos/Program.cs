@@ -16,7 +16,15 @@
     public void ActualizarStock(int cantidad)
     {
         //Agregar condición para saber si el stock no queda en negativo.
-        CantidadStock += cantidad;
+        if(CantidadStock + cantidad < 0)
+        {
+            Console.WriteLine($"\nLa cantidad de {Nombre} que intentaste retirar es mayor a la cantidad en stock.");
+        }
+        else
+        {
+            CantidadStock += cantidad;
+            Console.WriteLine($"\nEl nuevo stock de {Nombre} es de {CantidadStock}");
+        }
     }
 }
 
@@ -49,22 +57,54 @@ class OrdenCompra
 
     public void MostrarDetalleOrden()
     {
-        //mostrar la orden y los productos
-        Console.WriteLine($"Detalle de la orden de compra:");
-        Console.WriteLine($"Total de la orden: {CalcularTotal()} :c");
-
-        foreach (var producto in _productos)
+        if (_productos.Count != 0)
         {
-            Console.WriteLine($"Producto: {producto.Nombre}, Precio {producto.Precio}:c");
+            Console.WriteLine($"\nDetalle de la orden de compra:");
+            Console.WriteLine($"Total de la orden: {CalcularTotal()}");
+
+            foreach (var producto in _productos)
+            {
+                Console.WriteLine($"Producto: {producto.Nombre}, Precio {producto.Precio}");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Todavía no hay productos agregados a la orden de compra.");
         }
     }
     //Agregar método que elimine un producto.
+    public void EliminarProducto(Producto producto)
+    {
+        _productos.Remove(producto);
+    }
 }
 
 class Program
 {
     static void Main()
     {
+        Producto manzana = new Producto("QTJ-2GS", "Manzana", 40, 350);
+        Producto leche = new Producto("RCY-5Qh", "Leche", 20, 2500);
+        Producto pollo = new Producto("P4D-1J5", "Pollo", 15, 6000);
 
+        OrdenCompra ordenCompra = new OrdenCompra();
+
+        ordenCompra.MostrarDetalleOrden();
+
+        ordenCompra.AgregarProducto(manzana);
+        ordenCompra.AgregarProducto(manzana);
+        ordenCompra.AgregarProducto(leche);
+        ordenCompra.AgregarProducto(pollo);
+
+        ordenCompra.MostrarDetalleOrden();
+
+        ordenCompra.EliminarProducto(manzana);
+        ordenCompra.EliminarProducto(leche);
+
+        ordenCompra.MostrarDetalleOrden();
+
+        manzana.ActualizarStock(30);
+
+        pollo.ActualizarStock(-16);
     }
 }
