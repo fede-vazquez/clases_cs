@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SoqVPbSO2VvEmtRYaRrCsWJsBrSg8MqQ4grKWHD6ZAIgKvGRbozrAG8WI82ewm2kVUlZhGeX60DMnt/TlXF1gQ==",
+  "dgSpecHash": "wmqfOx905mQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Vehiculo\\Vehiculo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\Vehiculo\\Vehiculo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }

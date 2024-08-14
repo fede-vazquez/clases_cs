@@ -24,7 +24,7 @@ class OrdenCompra
 {
     //De esta forma decimos que va a ser una lista generica de datos tipo Producto.
     private List<Producto> _productos;
-    
+
     public OrdenCompra()
     {
         _productos = new List<Producto>();
@@ -39,7 +39,7 @@ class OrdenCompra
         decimal total = 0;
 
         //Alternativa a for, pero para objetos.
-        foreach(var producto in _productos)
+        foreach (var producto in _productos)
         {
             total += producto.Precio;
         }
@@ -53,10 +53,18 @@ class OrdenCompra
         Console.WriteLine($"Detalle de la orden de compra:");
         Console.WriteLine($"Total de la orden: {CalcularTotal()} :c");
 
-        foreach(var producto in _productos)
+        foreach (var producto in _productos)
         {
             Console.WriteLine($"Producto: {producto.Nombre}, Precio {producto.Precio}:c");
         }
     }
     //Agregar método que elimine un producto.
+}
+
+class Program
+{
+    static void Main()
+    {
+
+    }
 }
