@@ -1,4 +1,5 @@
 ﻿// Se repiten en todas las clases el atributo Nombre y el método MostrarDetalle.
+// Las validaciones me dan un loop infinito.
 
 class Administrador
 {
@@ -30,22 +31,40 @@ class Administrador
     }
 }
 
+class Materia
+{
+    public string Nombre { get; set; }
+    
+    public Materia(string nombre)
+    {
+        Nombre = nombre;
+    }
+
+    public void MostrarDetalle()
+    {
+        Console.WriteLine($"Nombre materia: {Nombre}");
+    }
+}
+
 class Profesor
 {
     public string Nombre { get; set; }
-    public string Materia { get; set; }
+    public List<Materia> Materias { get; set; } = new List<Materia>();
 
-    public Profesor(string nombre, string materia)
+    public Profesor(string nombre, Materia materia)
     {
         Nombre = nombre;
-        Materia = materia;
+        Materias.Add(materia);
     }
 
-    public void MaterarDetalle()
+    // Falta mostrar las materias en lista.
+    public void MostrarDetalle()
     {
-        Console.WriteLine($"Nombre {Nombre}, Materia: {Materia}");
+        Console.WriteLine($"Nombre {Nombre}, Materias: {Materias}");
     }
 }
+
+
 
 class Estudiante
 {
@@ -58,9 +77,53 @@ class Estudiante
         Edad = edad;
     }
 
-    public void MaterarDetalle()
+    public void MostrarDetalle()
     {
         Console.WriteLine($"Nombre {Nombre}, Edad: {Edad}");
+    }
+}
+
+class Escuela
+{
+    public string Nombre { get; set; }
+    
+    // Esto no entiendo como hacerlo
+    public Administrador Administrador { get; set; } = null;
+
+    public List<Profesor> Profesores { get; set; }
+
+    public Escuela(string nombre)
+    {
+        Nombre = nombre;
+        Profesores = new List<Profesor>();
+    }
+
+    public void AgregarProfesor(Profesor nuevoProfesor)
+    {
+        Profesores.Add(nuevoProfesor);
+    }
+
+    public void MostrarDetalle()
+    {
+        Console.WriteLine($"Nombre: {Nombre}, Administrador: {Administrador}");
+    }
+}
+
+class Aula
+{
+    public string Nombre { get; set; }
+
+    // Tampoco sé que hacer aca.
+    public Profesor ProfesorAula { get; set; }
+
+    public Aula(string nombre)
+    {
+        Nombre = nombre;
+    }
+
+    public void MostrarDetalle()
+    {
+        Console.WriteLine($"Nombre: {Nombre}, Profesor del aula: {ProfesorAula.Nombre}");
     }
 }
 
