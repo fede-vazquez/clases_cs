@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarjetaIdentificacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+881ade6282ab500d784a63188a1c4f7d0b719bb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarjetaIdentificacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarjetaIdentificacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

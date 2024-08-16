@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarjetaIdentificacion", "Ta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Productos", "Productos\Productos.csproj", "{E1495362-7158-4B72-8899-AA1472279DD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Administrador", "Administrador\Administrador.csproj", "{24D203B6-7D04-477D-B190-921F05C7C680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escuela", "Administrador\Escuela.csproj", "{24D203B6-7D04-477D-B190-921F05C7C680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
