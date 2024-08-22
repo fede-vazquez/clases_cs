@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Clima
+namespace Clima.Modelos
 {
     public class Clima
     {
@@ -11,6 +11,11 @@ namespace Clima
         {
             TemperaturaC = temperaturaC;
             Condicion = condicion;
+        }
+
+        public void MostrarDetalles()
+        {
+            Console.WriteLine($"Temperatura: {TemperaturaC}°\n");
         }
     }
 }
