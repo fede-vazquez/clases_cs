@@ -8,9 +8,10 @@ namespace HospitalCentral.Modelos
         public string Direccion {  get; set; }
         private List<Departamento> _departamentos;
 
-        public Hospital(string nombre)
+        public Hospital(string nombre, string direccion)
         {
             Nombre = nombre;
+            Direccion = direccion;
             _departamentos = new List<Departamento>();
         }
 
@@ -22,5 +23,7 @@ namespace HospitalCentral.Modelos
         {
             _departamentos.Remove(depa);
         }
+        // fuera del diagrama
+        public List<Departamento> ObtenerDepartamentos() => _departamentos;
     }
 }
