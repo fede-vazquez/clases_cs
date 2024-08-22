@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hospital.Modelos
+namespace HospitalCentral.Modelos
 {
     public class EquipoMedico
     {

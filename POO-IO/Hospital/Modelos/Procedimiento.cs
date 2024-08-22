@@ -1,7 +1,6 @@
-﻿using HospitalCentral.Modelos;
-using System;
+﻿using System;
 
-namespace Hospital.Modelos
+namespace HospitalCentral.Modelos
 {
     public class Procedimiento
     {
