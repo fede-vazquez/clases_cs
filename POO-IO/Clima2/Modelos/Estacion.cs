@@ -15,7 +15,7 @@ namespace Clima.Modelos
 
         public void MostrarDetalle()
         {
-            Console.WriteLine("Detalles de la estación:");
+            Console.WriteLine("\nDetalles de la estación:");
             Ubicacion.MostrarDetalle();
             Meteorologo.MostrarDetalle();
         }
