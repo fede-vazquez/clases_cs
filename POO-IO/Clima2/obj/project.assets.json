@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Clima\\Clima.csproj",
+      "projectUniqueName": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Clima2\\Clima.csproj",
       "projectName": "Clima",
-      "projectPath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Clima\\Clima.csproj",
+      "projectPath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Clima2\\Clima.csproj",
       "packagesPath": "C:\\Users\\fvazquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Clima\\obj\\",
+      "outputPath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\Clima2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fvazquez\\AppData\\Roaming\\NuGet\\NuGet.Config",

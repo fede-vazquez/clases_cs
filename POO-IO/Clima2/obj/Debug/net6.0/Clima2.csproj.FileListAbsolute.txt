@@ -1,0 +1,14 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\Clima2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\Clima2.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\Clima2.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\Clima2.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\bin\Debug\net6.0\Clima2.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\bin\Debug\net6.0\Clima2.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\bin\Debug\net6.0\Clima2.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\bin\Debug\net6.0\Clima2.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\bin\Debug\net6.0\Clima2.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\Clima2.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\refint\Clima2.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\Clima2.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\Clima2.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\Clima2\obj\Debug\net6.0\ref\Clima2.dll

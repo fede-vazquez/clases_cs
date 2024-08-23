@@ -7,12 +7,17 @@ namespace Clima.Modelos
         public string Ciudad { get; set; }
         public string Pais { get; set; }
         public Clima Clima { get; set; }
-        
+
         public Ubicacion(string ciudad, string pais, Clima clima)
         {
             Ciudad = ciudad;
             Pais = pais;
             Clima = clima;
+        }
+
+        public void MostrarDetalle()
+        {
+            Console.WriteLine($"Pais: {Pais}, Ciudad: {Ciudad}");
         }
     }
 }
