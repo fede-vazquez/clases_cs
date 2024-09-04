@@ -35,15 +35,23 @@ namespace Hoteleria.Modelos
 
         public double CalcularCostoServicios()
         {
+            return Habitaciones.Sum((habitacion) => habitacion.Servicios.Sum((servicio) => servicio.Costo));
+            
             double costoServicios = 0;
 
-            foreach (var habitacion in Habitaciones)
-            {
-                foreach (var servicio in habitacion.Servicios)
-                {
-                    costoServicios += servicio.Costo;
-                }
-            }
+            //foreach (var habitacion in Habitaciones)
+            //{
+            //    costoServicios += habitacion.Servicios.Sum((servicio) => servicio.Costo);
+            //}
+
+
+            //    foreach (var habitacion in Habitaciones)
+            //    {
+            //        foreach (var servicio in habitacion.Servicios)
+            //        {
+            //            costoServicios += servicio.Costo;
+            //        }
+            //    }
             return costoServicios;
         }
 
