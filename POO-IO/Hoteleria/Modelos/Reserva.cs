@@ -37,7 +37,7 @@ namespace Hoteleria.Modelos
         {
             return Habitaciones.Sum((habitacion) => habitacion.Servicios.Sum((servicio) => servicio.Costo));
             
-            double costoServicios = 0;
+            //double costoServicios = 0;
 
             //foreach (var habitacion in Habitaciones)
             //{
@@ -52,17 +52,18 @@ namespace Hoteleria.Modelos
             //            costoServicios += servicio.Costo;
             //        }
             //    }
-            return costoServicios;
+            //return costoServicios;
         }
 
         public double CalcularCostoTotal(Temporada temporada)
         {
-            double totalTarifasHabitacion = 0;
-            foreach (var habitacion in Habitaciones)
-            {
-                totalTarifasHabitacion += habitacion.CalcularTarifa(temporada);
-            }
-            return totalTarifasHabitacion + CalcularCostoServicios();
+            return Habitaciones.Sum((habitacion) => habitacion.CalcularTarifa(temporada)) + CalcularCostoServicios();
+            //double totalTarifasHabitacion = 0;
+            //foreach (var habitacion in Habitaciones)
+            //{
+            //    totalTarifasHabitacion += habitacion.CalcularTarifa(temporada);
+            //}
+            //return totalTarifasHabitacion + CalcularCostoServicios();
         }
     }
 }
