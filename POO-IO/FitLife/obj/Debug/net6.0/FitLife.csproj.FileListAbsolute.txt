@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\bin\Debug\net6.0\FitLife.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\bin\Debug\net6.0\FitLife.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\bin\Debug\net6.0\FitLife.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\bin\Debug\net6.0\FitLife.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\bin\Debug\net6.0\FitLife.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\refint\FitLife.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\FitLife.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\POO-IO\FitLife\obj\Debug\net6.0\ref\FitLife.dll
