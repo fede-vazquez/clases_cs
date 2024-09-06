@@ -16,6 +16,6 @@ namespace Cine.Modelos
             Tipo = tipo;
         }
 
-        public void CambiarOcupado() { Ocupado = !Ocupado; }
+        public void CambiarOcupado() => Ocupado = !Ocupado;
     }
 }

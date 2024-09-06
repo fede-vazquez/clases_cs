@@ -16,5 +16,9 @@ namespace Cine.Modelos
             DuracionMin = duracionMin;
             Formato = formato;
         }
+        public void Reproducir()
+        {
+            Console.WriteLine($"Se esta reproduciiendo la pelicula: {Nombre}, Genero {Genero}.");
+        }
     }
 }
