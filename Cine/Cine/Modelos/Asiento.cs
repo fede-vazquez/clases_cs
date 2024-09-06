@@ -1,6 +1,6 @@
 ﻿using Cine.Enums;
 
-namespace Cine.Modelos
+namespace ShoppingCine.Modelos
 {
     public class Asiento
     {

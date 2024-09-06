@@ -1,7 +1,9 @@
-﻿class Program
+﻿using ShoppingCine.Enums;
+using ShoppingCine.Modelos;
+
+class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hola");
     }
 }

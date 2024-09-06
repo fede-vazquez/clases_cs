@@ -1,4 +1,4 @@
-﻿namespace Cine.Enums
+﻿namespace ShoppingCine.Enums
 {
     public enum TipoAsiento
     {

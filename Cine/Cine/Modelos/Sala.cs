@@ -1,4 +1,4 @@
-﻿namespace Cine.Modelos
+﻿namespace ShoppingCine.Modelos
 {
     public class Sala
     {
@@ -6,12 +6,14 @@
         public List<Asiento> Asientos { get; private set; } = new List<Asiento>();
         public Pelicula Pelicula { get; private set; }
         public TimeOnly Horario { get; private set; }
+        public double Costo { get; private set; }
 
-        public Sala(int numero, Asiento asiento, Pelicula pelicula, TimeOnly horario)
+        public Sala(int numero, Asiento asiento, Pelicula pelicula, double costo, TimeOnly horario)
         {
             Numero = numero;
             Asientos.Add(asiento);
             Pelicula = pelicula;
+            Costo = costo;
             Horario = horario;
         }
         public Sala(int numero, List<Asiento> asientos, Pelicula pelicula, TimeOnly horario)
