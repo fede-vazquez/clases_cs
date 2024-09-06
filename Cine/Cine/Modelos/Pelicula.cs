@@ -1,4 +1,4 @@
-﻿using Cine.Enums;
+﻿using ShoppingCine.Enums;
 
 namespace ShoppingCine.Modelos
 {
@@ -15,10 +15,6 @@ namespace ShoppingCine.Modelos
             Genero = genero;
             DuracionMin = duracionMin;
             Formato = formato;
-        }
-        public void Reproducir()
-        {
-            Console.WriteLine($"Se esta reproduciiendo la pelicula: {Nombre}, Genero {Genero}.");
         }
     }
 }

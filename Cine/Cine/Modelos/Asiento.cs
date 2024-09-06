@@ -1,4 +1,4 @@
-﻿using Cine.Enums;
+﻿using ShoppingCine.Enums;
 
 namespace ShoppingCine.Modelos
 {

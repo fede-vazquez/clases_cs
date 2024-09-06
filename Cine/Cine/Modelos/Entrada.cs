@@ -1,4 +1,4 @@
-﻿using Cine.Enums;
+﻿using ShoppingCine.Enums;
 
 namespace ShoppingCine.Modelos
 {
@@ -42,7 +42,7 @@ namespace ShoppingCine.Modelos
             Console.WriteLine($"Formato: {Sala.Pelicula.Formato}");
             Console.WriteLine($"Fecha: {Fecha}, Horario: {Sala.Horario}");
             Console.WriteLine($"Asiento: {Asiento.Letra}{Asiento.Numero}, tipo de asiento: {Asiento.Tipo}");
-            Console.WriteLine($"Precio total: {Precio}");
+            Console.WriteLine($"Precio total: {Precio}\n");
         }
     }
 }

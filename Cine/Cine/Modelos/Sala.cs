@@ -28,6 +28,10 @@
         public void AgregarAsiento(Asiento asiento) => Asientos.Add(asiento);
         public void AgregarAsiento(List<Asiento> asientos) => Asientos.AddRange(asientos);
         public void DefinirHorario(TimeOnly hora) => Horario = hora;
-        public void ReproducirPelicula(Pelicula pelicula) => pelicula.Reproducir();
+        public void CambiarPelicula(Pelicula pelicula) => Pelicula = pelicula;
+        public void ReproducirPelicula()
+        {
+            Console.WriteLine($"Se esta reproduciendo la pelicula: {Pelicula.Nombre}, Genero {Pelicula.Genero}.");
+        }
     }
 }
