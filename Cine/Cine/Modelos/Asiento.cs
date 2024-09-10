@@ -17,5 +17,10 @@ namespace ShoppingCine.Modelos
         }
 
         public void CambiarOcupado() => Ocupado = !Ocupado;
+
+        public void MostrarDetalles()
+        {
+            Console.WriteLine($"Asiento: {Letra}{Numero}, tipo de asiento: {Tipo}");
+        }
     }
 }

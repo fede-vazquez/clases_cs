@@ -16,5 +16,10 @@ namespace ShoppingCine.Modelos
             DuracionMin = duracionMin;
             Formato = formato;
         }
+
+        public void Reproducir()
+        {
+            Console.WriteLine($"Se esta reproduciendo la película: {Nombre}, genero: {Genero}, con el formato: {Formato}");
+        }
     }
 }

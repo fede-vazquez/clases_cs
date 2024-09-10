@@ -5,7 +5,7 @@ namespace ShoppingCine.Modelos
     public class Entrada
     {
         public Cine Cine { get; private set; }
-        public Sala Sala { get; private set; }
+        public Funcion Funcion { get; private set; }
         public Asiento Asiento { get; private set; }
         public double Precio
         {
@@ -14,22 +14,18 @@ namespace ShoppingCine.Modelos
                 switch (Asiento.Tipo)
                 {
                     case TipoAsiento.Superseat:
-                        return Sala.Costo * 1.2;
+                        return Funcion.CostoFuncion * 1.2;
                     default: 
-                        return Sala.Costo;
+                        return Funcion.CostoFuncion;
                 }
             }
         }
-        public DateTime Fecha { get; private set; }
-
-        public Entrada(Cine cine, Sala sala, Asiento asiento, DateTime fecha)
+        public Entrada(Cine cine, Funcion funcion, Asiento asiento)
         {
+            if (asiento.Ocupado == true) throw new Exception("El asiento seleccionado esta ocupado.");
             Cine = cine;
-            Sala = sala;
-            Fecha = fecha;
+            Funcion = funcion;
             Asiento = asiento;
-            
-            // Asumiendo que el asiento estará libre en este punto.
             Asiento.CambiarOcupado();
             
             MostrarDetalles();
@@ -38,11 +34,9 @@ namespace ShoppingCine.Modelos
         public void MostrarDetalles()
         {
             Console.WriteLine($"Gracias por comprar su entrada en {Cine.Nombre}.");
-            Console.WriteLine($"Pelicula: {Sala.Pelicula.Nombre}, Sala: {Sala.Numero}");
-            Console.WriteLine($"Formato: {Sala.Pelicula.Formato}");
-            Console.WriteLine($"Fecha: {Fecha}, Horario: {Sala.Horario}");
-            Console.WriteLine($"Asiento: {Asiento.Letra}{Asiento.Numero}, tipo de asiento: {Asiento.Tipo}");
+            Funcion.MostrarDetalles();
+            Asiento.MostrarDetalles();
             Console.WriteLine($"Precio total: {Precio}\n");
         }
     }
-}
+} 
