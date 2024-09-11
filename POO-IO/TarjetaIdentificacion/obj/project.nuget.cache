@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5j3HHte1faE=",
+  "dgSpecHash": "UvUhANusiM09DPkOaTZKncOykNPOvjAxQO+ZRqbFrfToqUB++u1tJPbxtNahcCIQEmeLp5Qq3GsofAc2SkXxGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\POO-IO\\TarjetaIdentificacion\\TarjetaIdentificacion.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\POO-IO\\TarjetaIdentificacion\\TarjetaIdentificacion.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
