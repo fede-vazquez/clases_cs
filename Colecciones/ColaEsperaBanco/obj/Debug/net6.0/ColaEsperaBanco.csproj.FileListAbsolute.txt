@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\bin\Debug\net6.0\ColaEsperaBanco.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\bin\Debug\net6.0\ColaEsperaBanco.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\bin\Debug\net6.0\ColaEsperaBanco.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\bin\Debug\net6.0\ColaEsperaBanco.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\bin\Debug\net6.0\ColaEsperaBanco.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\refint\ColaEsperaBanco.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ColaEsperaBanco.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ColaEsperaBanco\obj\Debug\net6.0\ref\ColaEsperaBanco.dll

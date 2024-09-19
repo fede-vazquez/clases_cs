@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistorialWeb", "HistorialWe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaTareas", "ListaTareas\ListaTareas.csproj", "{A87C274A-9DB2-4A1F-9004-6B41C4D92261}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColaEsperaBanco", "ColaEsperaBanco\ColaEsperaBanco.csproj", "{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A87C274A-9DB2-4A1F-9004-6B41C4D92261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A87C274A-9DB2-4A1F-9004-6B41C4D92261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A87C274A-9DB2-4A1F-9004-6B41C4D92261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
