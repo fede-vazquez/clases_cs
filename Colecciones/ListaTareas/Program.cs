@@ -64,7 +64,9 @@ public class Program
         } while (opcion != 4);
     }
 }
-// tarea para despues:
-// mostrar todas las tareas.
-// mostrar tareas completadas.
-// editar una tarea.
+// Tarea para despues:
+// Mostrar todas las tareas.
+// Mostrar tareas completadas.
+// Editar una tarea.
+// Descompletar una tarea.
+// Podemos abstraer un poco y hacer una lista de tareas. Para practicar la lista de tareas.
