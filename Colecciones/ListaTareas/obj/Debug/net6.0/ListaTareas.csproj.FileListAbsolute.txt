@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\bin\Debug\net6.0\ListaTareas.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\bin\Debug\net6.0\ListaTareas.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\bin\Debug\net6.0\ListaTareas.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\bin\Debug\net6.0\ListaTareas.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\bin\Debug\net6.0\ListaTareas.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\refint\ListaTareas.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ListaTareas.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\ListaTareas\obj\Debug\net6.0\ref\ListaTareas.dll

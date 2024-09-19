@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\bin\Debug\net6.0\HistorialWeb.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\bin\Debug\net6.0\HistorialWeb.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\bin\Debug\net6.0\HistorialWeb.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\bin\Debug\net6.0\HistorialWeb.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\bin\Debug\net6.0\HistorialWeb.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\refint\HistorialWeb.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\HistorialWeb.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\HistorialWeb\obj\Debug\net6.0\ref\HistorialWeb.dll
