@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ColaEsperaBanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c182e96f2ff1dc0e5dcc24436551428192cf44b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08624b0de1f38928a679f464bb75539834b9a608")]
 [assembly: System.Reflection.AssemblyProductAttribute("ColaEsperaBanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ColaEsperaBanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaTareas", "ListaTareas\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColaEsperaBanco", "ColaEsperaBanco\ColaEsperaBanco.csproj", "{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContadorPalabras", "ContadorPalabras\ContadorPalabras.csproj", "{DB5645FE-7077-4FB7-8E21-D26F5190D420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5645FE-7077-4FB7-8E21-D26F5190D420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5645FE-7077-4FB7-8E21-D26F5190D420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5645FE-7077-4FB7-8E21-D26F5190D420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5645FE-7077-4FB7-8E21-D26F5190D420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
