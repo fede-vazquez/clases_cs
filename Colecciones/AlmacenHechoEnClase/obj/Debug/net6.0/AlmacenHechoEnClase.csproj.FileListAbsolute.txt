@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\bin\Debug\net6.0\AlmacenHechoEnClase.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\bin\Debug\net6.0\AlmacenHechoEnClase.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\bin\Debug\net6.0\AlmacenHechoEnClase.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\bin\Debug\net6.0\AlmacenHechoEnClase.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\bin\Debug\net6.0\AlmacenHechoEnClase.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\refint\AlmacenHechoEnClase.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\AlmacenHechoEnClase.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\AlmacenHechoEnClase\obj\Debug\net6.0\ref\AlmacenHechoEnClase.dll

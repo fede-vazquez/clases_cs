@@ -5,13 +5,15 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "introduccion", "Colecciones\introduccion.csproj", "{94969A74-85A0-4A71-B346-0DF3464ABCC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistorialWeb", "HistorialWeb\HistorialWeb.csproj", "{D4867555-8112-40D2-B239-AC875EE7963E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HistorialWeb", "HistorialWeb\HistorialWeb.csproj", "{D4867555-8112-40D2-B239-AC875EE7963E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaTareas", "ListaTareas\ListaTareas.csproj", "{A87C274A-9DB2-4A1F-9004-6B41C4D92261}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaTareas", "ListaTareas\ListaTareas.csproj", "{A87C274A-9DB2-4A1F-9004-6B41C4D92261}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColaEsperaBanco", "ColaEsperaBanco\ColaEsperaBanco.csproj", "{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColaEsperaBanco", "ColaEsperaBanco\ColaEsperaBanco.csproj", "{65A952F3-0FF1-40C0-9607-EA0A49D81ACA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContadorPalabras", "ContadorPalabras\ContadorPalabras.csproj", "{DB5645FE-7077-4FB7-8E21-D26F5190D420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContadorPalabras", "ContadorPalabras\ContadorPalabras.csproj", "{DB5645FE-7077-4FB7-8E21-D26F5190D420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmacenHechoEnClase", "AlmacenHechoEnClase\AlmacenHechoEnClase.csproj", "{2381FB19-6062-4B04-81C0-1AFE421DF74D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DB5645FE-7077-4FB7-8E21-D26F5190D420}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB5645FE-7077-4FB7-8E21-D26F5190D420}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB5645FE-7077-4FB7-8E21-D26F5190D420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2381FB19-6062-4B04-81C0-1AFE421DF74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2381FB19-6062-4B04-81C0-1AFE421DF74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2381FB19-6062-4B04-81C0-1AFE421DF74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2381FB19-6062-4B04-81C0-1AFE421DF74D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
