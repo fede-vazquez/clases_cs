@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\bin\Debug\net6.0\Tickets.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\bin\Debug\net6.0\Tickets.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\bin\Debug\net6.0\Tickets.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\bin\Debug\net6.0\Tickets.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\bin\Debug\net6.0\Tickets.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\refint\Tickets.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\Tickets.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\Tickets\obj\Debug\net6.0\ref\Tickets.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("InvertirFrase")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tickets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb2619c94d0483f6c287202dd241d74a1a404819")]
-[assembly: System.Reflection.AssemblyProductAttribute("InvertirFrase")]
-[assembly: System.Reflection.AssemblyTitleAttribute("InvertirFrase")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tickets")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tickets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
