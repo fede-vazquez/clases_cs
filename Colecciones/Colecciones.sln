@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContadorPalabras", "Contado
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmacenHechoEnClase", "AlmacenHechoEnClase\AlmacenHechoEnClase.csproj", "{2381FB19-6062-4B04-81C0-1AFE421DF74D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertirFrase", "InvertirFrase\InvertirFrase.csproj", "{1BE4D6CA-A696-4314-967E-3C3E71277686}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2381FB19-6062-4B04-81C0-1AFE421DF74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2381FB19-6062-4B04-81C0-1AFE421DF74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2381FB19-6062-4B04-81C0-1AFE421DF74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE4D6CA-A696-4314-967E-3C3E71277686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE4D6CA-A696-4314-967E-3C3E71277686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE4D6CA-A696-4314-967E-3C3E71277686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE4D6CA-A696-4314-967E-3C3E71277686}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

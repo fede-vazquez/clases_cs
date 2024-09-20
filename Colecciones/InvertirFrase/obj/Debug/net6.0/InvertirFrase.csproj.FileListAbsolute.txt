@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\bin\Debug\net6.0\InvertirFrase.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\bin\Debug\net6.0\InvertirFrase.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\bin\Debug\net6.0\InvertirFrase.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\bin\Debug\net6.0\InvertirFrase.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\bin\Debug\net6.0\InvertirFrase.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\refint\InvertirFrase.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\InvertirFrase.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\InvertirFrase\obj\Debug\net6.0\ref\InvertirFrase.dll
