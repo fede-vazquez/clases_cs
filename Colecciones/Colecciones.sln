@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColaEsperaBanco", "ColaEspe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContadorPalabras", "ContadorPalabras\ContadorPalabras.csproj", "{DB5645FE-7077-4FB7-8E21-D26F5190D420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmacenHechoEnClase", "AlmacenHechoEnClase\AlmacenHechoEnClase.csproj", "{2381FB19-6062-4B04-81C0-1AFE421DF74D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlmacenHechoEnClase", "AlmacenHechoEnClase\AlmacenHechoEnClase.csproj", "{2381FB19-6062-4B04-81C0-1AFE421DF74D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvertirFrase", "InvertirFrase\InvertirFrase.csproj", "{1BE4D6CA-A696-4314-967E-3C3E71277686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvertirFrase", "InvertirFrase\InvertirFrase.csproj", "{1BE4D6CA-A696-4314-967E-3C3E71277686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickets", "Tickets\Tickets.csproj", "{2DBEE731-7C0C-4B9E-90C0-A432862B1193}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tickets", "Tickets\Tickets.csproj", "{2DBEE731-7C0C-4B9E-90C0-A432862B1193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasAlumnos", "NotasAlumnos\NotasAlumnos.csproj", "{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{2DBEE731-7C0C-4B9E-90C0-A432862B1193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DBEE731-7C0C-4B9E-90C0-A432862B1193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DBEE731-7C0C-4B9E-90C0-A432862B1193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

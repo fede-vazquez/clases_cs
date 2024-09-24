@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\bin\Debug\net6.0\NotasAlumnos.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\bin\Debug\net6.0\NotasAlumnos.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\bin\Debug\net6.0\NotasAlumnos.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\bin\Debug\net6.0\NotasAlumnos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\bin\Debug\net6.0\NotasAlumnos.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\refint\NotasAlumnos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\NotasAlumnos.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\NotasAlumnos\obj\Debug\net6.0\ref\NotasAlumnos.dll
