@@ -1,4 +1,5 @@
-﻿using GruposDeEstudio.Models;
+﻿// lista de grupos y listar todos los estudiantes de todos los grupos (si es posible que los separe por grupos)
+using GruposDeEstudio.Models;
 class Program
 {
     static void Main()

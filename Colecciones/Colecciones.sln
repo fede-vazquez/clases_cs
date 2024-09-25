@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvertirFrase", "InvertirFr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tickets", "Tickets\Tickets.csproj", "{2DBEE731-7C0C-4B9E-90C0-A432862B1193}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotasAlumnos", "NotasAlumnos\NotasAlumnos.csproj", "{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotasAlumnos", "NotasAlumnos\NotasAlumnos.csproj", "{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineaProducto", "LineaProducto\LineaProducto.csproj", "{6BF6EA82-B68E-430D-93E4-9AA3E43B4883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GruposDeEstudio", "GruposDeEstudio\GruposDeEstudio.csproj", "{3EC025E9-9A43-496F-ABB4-8735C485A489}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F76C5BF-EC8F-4330-AFFE-817B7AD47B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF6EA82-B68E-430D-93E4-9AA3E43B4883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF6EA82-B68E-430D-93E4-9AA3E43B4883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF6EA82-B68E-430D-93E4-9AA3E43B4883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF6EA82-B68E-430D-93E4-9AA3E43B4883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC025E9-9A43-496F-ABB4-8735C485A489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC025E9-9A43-496F-ABB4-8735C485A489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC025E9-9A43-496F-ABB4-8735C485A489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC025E9-9A43-496F-ABB4-8735C485A489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

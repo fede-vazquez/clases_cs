@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlmacenHechoEnClase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a32a9746716ff5a5cae349b857510f82869bb2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlmacenHechoEnClase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlmacenHechoEnClase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
