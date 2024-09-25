@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\bin\Debug\net6.0\LineaProducto.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\bin\Debug\net6.0\LineaProducto.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\bin\Debug\net6.0\LineaProducto.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\bin\Debug\net6.0\LineaProducto.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\bin\Debug\net6.0\LineaProducto.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.csproj.AssemblyReference.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\refint\LineaProducto.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\LineaProducto.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\LineaProducto\obj\Debug\net6.0\ref\LineaProducto.dll
