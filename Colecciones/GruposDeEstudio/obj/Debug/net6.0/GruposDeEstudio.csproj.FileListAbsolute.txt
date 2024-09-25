@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\bin\Debug\net6.0\GruposDeEstudio.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\bin\Debug\net6.0\GruposDeEstudio.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\bin\Debug\net6.0\GruposDeEstudio.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\bin\Debug\net6.0\GruposDeEstudio.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\bin\Debug\net6.0\GruposDeEstudio.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.csproj.AssemblyReference.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\refint\GruposDeEstudio.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\GruposDeEstudio.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Colecciones\GruposDeEstudio\obj\Debug\net6.0\ref\GruposDeEstudio.dll
