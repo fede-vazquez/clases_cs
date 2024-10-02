@@ -12,8 +12,9 @@
         foreach (var palabra in palabras)
         {
             if (contadorPalabras.ContainsKey(palabra)){
-            contadorPalabras[palabra]++;
-            }else
+                contadorPalabras[palabra]++;
+            }
+            else
             {
                 contadorPalabras.Add(palabra, 1);
             }
@@ -27,3 +28,9 @@
         }
     }
 }
+
+// Pila, porque no se enumera, me van quedando en el orden en el que las ingreso, y no las voy a modificar.
+// Un menú con estas opciones:
+// Agregar frases y mostrar frecuencia.
+// Listar frases.
+// Elegir una y mostrar la frecuencia.
