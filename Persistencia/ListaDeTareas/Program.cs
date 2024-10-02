@@ -6,6 +6,7 @@ namespace ListaDeTareas
     {
         static void Main()
         {
+            Sistema.CargarDatos();
             int opcion;
             do
             {

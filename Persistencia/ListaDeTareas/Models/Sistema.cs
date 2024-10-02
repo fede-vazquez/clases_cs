@@ -102,5 +102,48 @@ namespace ListaDeTareas.Models
             }
             Console.WriteLine("Datos guardados correctamente.");
         }
+
+        public static void CargarDatos()
+        {
+            if (File.Exists(archivo))
+            {
+                using StreamReader reader = new StreamReader(archivo);
+
+                string linea;
+
+                // El null en este caso nos sirve para tener la plantilla de usuario.
+                Usuario usuarioActual = null;
+
+                // Hay que parar de leer el archivo cuando no haya nada nada escrito en una linea.
+                while ((linea = reader.ReadLine()) != null)
+                {
+                    // Si la linea tiene un separador de usuario significa que ya terminamos de leer el usuario actual.
+                    if(linea == usuarioSeparador)
+                    {
+                        usuarioActual = null; // Fin de un usuario
+                    }
+                    else if(usuarioActual == null)
+                    {
+                        usuarioActual = new Usuario(linea);
+                        usuarios[linea] = usuarioActual;
+                    }
+                    else
+                    {
+                        // Aca va a entrar siempre que usuario no sea null, es decir que estemos leyendo sus tareas.
+                        string[] partes = linea.Split("|");
+                        string descripcion = partes[0];
+                        bool completada = bool.Parse(partes[1]);
+
+                        var tarea = new Tarea(descripcion, completada);
+                        usuarioActual.AgregarTareas(tarea);
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("Datos no encontrados");
+            }
+            Console.WriteLine("Datos cargados correctamente.");
+        }
     }
 }
