@@ -33,6 +33,7 @@ public class Program
                     break;
                 case 3:
                     Sistema.CambiarTextoActual();
+                    Sistema.MostrarFrecuenciaPalabras();
                     Console.WriteLine("\n");
                     break;
                 case 4:

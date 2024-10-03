@@ -22,9 +22,10 @@
             {
                 using StreamReader reader = new StreamReader(archivo);
 
-                while(reader.ReadLine() != null)
+                string linea;
+                while((linea = reader.ReadLine()) != null)
                 {
-                    textos.Push(reader.ReadLine());
+                    textos.Push(linea);
                 }
             }
         }

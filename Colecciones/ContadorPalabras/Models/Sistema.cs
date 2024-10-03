@@ -71,7 +71,7 @@
             if(textos.Length > 0)
             {
                 Console.Write("Seleccione el texto para mostrar su frecuencia: ");
-                int indice = int.Parse(Console.ReadLine());
+                int indice = int.Parse(Console.ReadLine()) - 1;
                 if (textos[indice] != null)
                 {
                     textoActual = textos[indice];
