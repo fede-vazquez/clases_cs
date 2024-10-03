@@ -2,7 +2,7 @@
 {
     public static class Sistema
     {
-        private static string[] textos = SistemaTextosArchivo.ObtenerTextos().ToArray();
+        private static List<string> textos = SistemaTextosArchivo.ObtenerTextos().ToList();
 
         private static Dictionary<string, int> contadorPalabras = new Dictionary<string, int>();
 
@@ -12,6 +12,8 @@
         {
             Console.Write("Ingrese un texto: ");
             textoActual = Console.ReadLine();
+
+            textos.Add(textoActual);
             SistemaTextosArchivo.AgregarTexto(textoActual);
         }
         public static void CalcularFrecuenciaPalabras()
@@ -51,9 +53,9 @@
         public static void ListarTextos()
         {
             Console.WriteLine("Textos anteriores: ");
-            if (textos.Length > 0)
+            if (textos.Count > 0)
             {
-                for (int i = 0; i < textos.Length; i++)
+                for (int i = 0; i < textos.Count; i++)
                 {
                     Console.WriteLine($"{i+1}: {textos[i]}");
                 }
@@ -68,7 +70,7 @@
         {
             ListarTextos();
             
-            if(textos.Length > 0)
+            if(textos.Count > 0)
             {
                 Console.Write("Seleccione el texto para mostrar su frecuencia: ");
                 int indice = int.Parse(Console.ReadLine()) - 1;
