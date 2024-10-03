@@ -1,31 +1,51 @@
-﻿public class Program
+﻿using ContadorPalabras.Models;
+
+public class Program
 {
     static void Main()
     {
-        Console.WriteLine("Ingrese un texto: ");
-        string texto = Console.ReadLine();
+        SistemaTextosArchivo.CargarDeArchivo();
+        int opcion;
 
-        Dictionary<string, int> contadorPalabras = new Dictionary<string, int>();
-
-        string[] palabras = texto.Split(" ");
-
-        foreach (var palabra in palabras)
+        do
         {
-            if (contadorPalabras.ContainsKey(palabra)){
-                contadorPalabras[palabra]++;
-            }
-            else
+            Console.WriteLine("\n");
+            Console.WriteLine("==== Menú ===");
+            Console.WriteLine("1. Agregar texto y mostrar frecuencia.");
+            Console.WriteLine("2. Listar textos anteriores.");
+            Console.WriteLine("3. Seleccionar texto anterior.");
+            Console.WriteLine("4. Salir y guardar.");
+            Console.Write("Opción: ");
+            opcion = int.Parse(Console.ReadLine());
+            Console.WriteLine("\n");
+
+            switch (opcion)
             {
-                contadorPalabras.Add(palabra, 1);
+                case 1:
+                    Sistema.AgregarTexto();
+                    Sistema.CalcularFrecuenciaPalabras();
+                    Sistema.MostrarFrecuenciaPalabras();
+                    Console.WriteLine("\n");
+                    break;
+                case 2:
+                    Sistema.ListarTextos();
+                    Console.WriteLine("\n");
+                    break;
+                case 3:
+                    Sistema.CambiarTextoActual();
+                    Console.WriteLine("\n");
+                    break;
+                case 4:
+                    SistemaTextosArchivo.GuardarEnArchivo();
+                    Console.WriteLine("Saliendo");
+                    break;
+                default:
+                    Console.WriteLine("Opcion incorrecta.");
+                    break;
             }
-        }
 
-        Console.WriteLine("\n");
-        Console.WriteLine("Frecuencia de palabras: ");
-        foreach(var entrada in contadorPalabras)
-        {
-            Console.WriteLine($"{entrada.Key}: {entrada.Value}");
-        }
+        } while (opcion != 4);
+
     }
 }
 
@@ -34,3 +54,4 @@
 // Agregar frases y mostrar frecuencia.
 // Listar frases.
 // Elegir una y mostrar la frecuencia.
+// Guardar en archivo.

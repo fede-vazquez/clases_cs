@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PDTHZykIqVFCESxUC0bHs0t09jl8fMotiKoCf1Pc4tRvGS5qt1GNkOjOaIg4GRkhI7VsrxzstiP727D43tWqsQ==",
+  "dgSpecHash": "sMTrbdDooCU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\Colecciones\\ContadorPalabras\\ContadorPalabras.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\Colecciones\\ContadorPalabras\\ContadorPalabras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
