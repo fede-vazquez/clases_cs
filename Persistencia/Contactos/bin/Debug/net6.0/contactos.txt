@@ -1,0 +1,2 @@
+Pepito|1234|p@gmail.com
+Juan Perez|4321|mail@example.com
