@@ -4,7 +4,10 @@
     {
         private static string archivo = "textos.txt"; 
         
-        private static Stack<string> textos = new Stack<string>();
+        // No sé por qué si uso Stack me modifíca el orden
+        // de los textos al guardarlos en el archivo.
+        // Creo que es porque en los stacks el orden se invierte, por LIFO.
+        private static Queue<string> textos = new Queue<string>();
 
         public static void GuardarEnArchivo()
         {
@@ -25,12 +28,12 @@
                 string linea;
                 while((linea = reader.ReadLine()) != null)
                 {
-                    textos.Push(linea);
+                    textos.Enqueue(linea);
                 }
             }
         }
 
-        public static Stack<string> ObtenerTextos() => textos;
-        public static void AgregarTexto(string texto) => textos.Push(texto);
+        public static Queue<string> ObtenerTextos() => textos;
+        public static void AgregarTexto(string texto) => textos.Enqueue(texto);
     }
 }
