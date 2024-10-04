@@ -17,9 +17,9 @@
             }
         }
 
-        public static List<string> ObtenerDatos(string nombreArchivo, bool isAppend = false)
+        public static List<string> ObtenerDatos(string nombreArchivo)
         {
-            using StreamReader reader = new StreamReader(nombreArchivo, isAppend);
+            using StreamReader reader = new StreamReader(nombreArchivo);
 
             List<string> datos = new List<string>();
 

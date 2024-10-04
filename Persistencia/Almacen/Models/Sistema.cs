@@ -4,6 +4,7 @@
     {
         static string nombreArchivo = "productos.txt";
 
+        // no se como traerme los datos.
         private static Dictionary<int, Producto> Productos;
 
         public static void AgregarProducto()
