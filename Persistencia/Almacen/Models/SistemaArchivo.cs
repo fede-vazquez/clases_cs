@@ -19,17 +19,17 @@
 
         public static List<string> ObtenerDatos(string nombreArchivo)
         {
-            using StreamReader reader = new StreamReader(nombreArchivo);
-
             List<string> datos = new List<string>();
-
-            string linea;
-
-            while((linea = reader.ReadLine()) != null)
+            if (File.Exists(nombreArchivo))
             {
-                datos.Add(linea);
-            }
+                using StreamReader reader = new StreamReader(nombreArchivo);
+                string linea;
 
+                while((linea = reader.ReadLine()) != null)
+                {
+                    datos.Add(linea);
+                }
+            }
             return datos;
         }
     }

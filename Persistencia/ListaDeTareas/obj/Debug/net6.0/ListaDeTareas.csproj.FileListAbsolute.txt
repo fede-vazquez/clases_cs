@@ -12,4 +12,4 @@ C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\ListaDeTareas\obj\Debug\n
 C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.pdb
 C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.genruntimeconfig.cache
 C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\ListaDeTareas\obj\Debug\net6.0\ref\ListaDeTareas.dll
-C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.csproj.AssemblyReference.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\ListaDeTareas\obj\Debug\net6.0\ListaDeTareas.sourcelink.json

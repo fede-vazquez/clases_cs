@@ -6,8 +6,7 @@ namespace Almacen
     {
         static void Main()
         {
-            Producto p = new Producto("hola", 15);
-            Console.WriteLine(p);
+            Sistema.CargarDatos();
             int opcion;
             do
             {
@@ -23,16 +22,18 @@ namespace Almacen
                 switch (opcion)
                 {
                     case 1:
+                        Sistema.AgregarProducto();
                         Console.WriteLine("\n");
                         break;
                     case 2:
                         Console.WriteLine("\n");
                         break;
                     case 3:
+                        Sistema.MostrarProductos();
                         Console.WriteLine("\n");
                         break;
                     case 4:
-                        Console.WriteLine("\n");
+                        Console.WriteLine("Saliendo...");
                         break;
                 }
             }
