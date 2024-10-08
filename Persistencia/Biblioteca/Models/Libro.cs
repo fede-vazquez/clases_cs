@@ -20,7 +20,7 @@
 
         public override string ToString()
         {
-            return $"{}{}{}{}";
+            return $"{Codigo};{Titulo};{Autor};{EjemplaresDisponibles}";
         }
     }
 }

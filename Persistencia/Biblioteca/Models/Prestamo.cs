@@ -12,5 +12,10 @@
             FechaPrestamo = fechaPrestamo;
             FechaDevolucion = fechaPrestamo.AddDays(10);
         }
+
+        public override string ToString()
+        {
+            return $"{Libro.Codigo};{FechaPrestamo.ToShortDateString()};{FechaDevolucion.ToShortDateString()}";
+        }
     }
 }
