@@ -17,5 +17,10 @@
 
         public void AgregarEjemplar() => EjemplaresDisponibles++;
         public void QuitarEjemplar() => EjemplaresDisponibles--;
+
+        public override string ToString()
+        {
+            return $"{}{}{}{}";
+        }
     }
 }

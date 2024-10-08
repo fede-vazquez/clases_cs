@@ -39,5 +39,10 @@
                 Console.WriteLine($"El usuario {usuario.Nombre} no realizó el prestamo del libro {libro.Titulo}");
             }
         }
+
+        public static void CargarLibro(Libro libro)
+        {
+            
+        }
     }
 }
