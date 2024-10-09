@@ -8,7 +8,13 @@ namespace Biblioteca
         {
             SysBiblioteca.CargarDatos();
             int opcion;
-
+            Console.WriteLine("1. Agregar libro.");
+            Console.WriteLine("2. Agregar usuario.");
+            Console.WriteLine("3. Realizar prestamo.");
+            Console.WriteLine("4. Devolver libro.");
+            Console.WriteLine("5. Mostrar libros.");
+            Console.WriteLine("6. Mostrar usuarios.");
+            Console.WriteLine("7. Guardar y Salir.");
             do
             {
                 try
@@ -39,10 +45,24 @@ namespace Biblioteca
                         Console.WriteLine("\n");
                         Menu.ArmarPedirDevolucion();
                         break;
+                    case 5:
+                        Console.WriteLine("\n");
+                        Menu.MostrarLibros();
+                        break;
+                    case 6:
+                        Console.WriteLine("\n");
+                        Menu.MostrarUsuarios();
+                        break;
+                    case 7:
+                        Console.WriteLine("Saliendo...");
+                        SysBiblioteca.GuardarDatos();
+                        break;
+                    default:
+                        Console.WriteLine("Opcíon incorrecta.");
+                        break;
                 }
-            } while (opcion != 5);
+            } while (opcion != 7);
 
-            SysBiblioteca.GuardarDatos();
         }
     }
 }
