@@ -3,7 +3,7 @@
     public class Usuario
     {
         public string Nombre { get; private set; }
-        public List<Prestamo> Prestamos { get; private set; }
+        public List<Prestamo> Prestamos { get; private set; } = new List<Prestamo>();
 
         public Usuario(string nombre)
         {

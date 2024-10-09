@@ -4,6 +4,28 @@ namespace Biblioteca.Models
 {
     public static class Menu
     {
+        public static int PedirObtenerOpcion()
+        {
+            Console.WriteLine("\n");
+            Console.WriteLine("1. Agregar libro.");
+            Console.WriteLine("2. Agregar usuario.");
+            Console.WriteLine("3. Realizar prestamo.");
+            Console.WriteLine("4. Devolver libro.");
+            Console.WriteLine("5. Guardar y Salir.");
+            
+            Console.Write("Opcion: ");
+            int opcion;
+
+            // En caso de que el TryParse(string, out salida) sea false el out va a setear la salida en 0.
+            if (!int.TryParse(Console.ReadLine(), out opcion))
+            {
+                //Console.WriteLine(opcion);
+                throw new Exception("No se ingresó ningún número.");
+            }
+
+            return opcion;
+        }
+
         public static void ArmarPedirLibro()
         {
             Console.Write("Ingrese el código del libro: ");
@@ -94,29 +116,3 @@ namespace Biblioteca.Models
         }
     }
 }
-
-/*
- * Console.Write("Ingrese el codigo del libro: ");
-string cod = Console.ReadLine();
-var libros = SysBiblioteca.ObtenerLibros();
-var libro = libros.Find((l) => l.Codigo == cod);
-
-if (libro == null)
-{
-    Console.WriteLine("Libro no encontrado!");
-    return;
-}
-
-Console.Write("Ingrese el nombre del usuario: ");
-string nom = Console.ReadLine();
-var usuarios = SysBiblioteca.ObtenerUsuarios();
-var usu = usuarios.Find((l) => l.Nombre == nom);
-
-if (usu == null)
-{
-    Console.WriteLine("Usuario no encontrado!");
-    return;
-}
-
-SysBiblioteca.DevolverLibro(libro, usu);
-*/

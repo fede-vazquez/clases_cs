@@ -6,20 +6,20 @@ namespace Biblioteca
     {
         static void Main()
         {
+            SysBiblioteca.CargarDatos();
             int opcion;
 
             do
             {
-                Console.WriteLine("\n");
-
-                Console.WriteLine("1. Agregar libro.");
-                Console.WriteLine("2. Agregar usuario.");
-                Console.WriteLine("3. Realizar prestamo.");
-                Console.WriteLine("4. Devolver libro.");
-                Console.WriteLine("5. Guardar y Salir.");
-
-                Console.Write("Opcion: ");
-                opcion = int.Parse(Console.ReadLine());
+                try
+                {
+                    opcion = Menu.PedirObtenerOpcion();
+                } catch(Exception ex)
+                {
+                    Console.Write(ex.Message);
+                    Console.WriteLine("\n");
+                    return;
+                }
 
                 switch (opcion)
                 {
@@ -38,9 +38,6 @@ namespace Biblioteca
                     case 4:
                         Console.WriteLine("\n");
                         Menu.ArmarPedirDevolucion();
-                        break;
-                    default:
-                        Console.WriteLine("Opción incorrecta");
                         break;
                 }
             } while (opcion != 5);
