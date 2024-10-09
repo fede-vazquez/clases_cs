@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\bin\Debug\net6.0\InventarioProductos.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\bin\Debug\net6.0\InventarioProductos.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\bin\Debug\net6.0\InventarioProductos.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\bin\Debug\net6.0\InventarioProductos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\bin\Debug\net6.0\InventarioProductos.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.csproj.AssemblyReference.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\refint\InventarioProductos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\InventarioProductos.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\InventarioProductos\obj\Debug\net6.0\ref\InventarioProductos.dll
