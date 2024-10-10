@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\bin\Debug\net6.0\Empleados.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\bin\Debug\net6.0\Empleados.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\bin\Debug\net6.0\Empleados.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\bin\Debug\net6.0\Empleados.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\bin\Debug\net6.0\Empleados.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\refint\Empleados.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\Empleados.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Persistencia\Empleados\obj\Debug\net6.0\ref\Empleados.dll
