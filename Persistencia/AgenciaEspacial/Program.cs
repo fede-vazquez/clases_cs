@@ -33,6 +33,8 @@ namespace ViajeEspacial
 
 // tarea: reever los conceptos de callbacks y closure, e investigar muy por encima el patrón estrategy.
 
+// La abstracción es dividir un problema complejo en partes más pequeños.
+
 // llamar una función dentro de otra genera una dependencia, ya que si esa función no existe se rompe todo.
 // por eso se utilizan callbacks.
 // vamos a manejar el comportamiento de nuestro viaje espacial con Strategy.

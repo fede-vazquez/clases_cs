@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgenciaEspacial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c4dd12e92de86c3421209919d329a08fcc2605e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgenciaEspacial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgenciaEspacial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
