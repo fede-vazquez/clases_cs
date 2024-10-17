@@ -40,6 +40,7 @@
             {
                 Misiones.Remove(mision);
                 Misiones.Add(nuevaMision);
+                GuardarDatos();
                 Console.WriteLine($"Misión '{nombre}' ha sido modificada");
             }
         }
@@ -55,10 +56,10 @@
             else
             {
                 Misiones.Remove(m);
+                GuardarDatos();
                 Console.WriteLine($"Misión '{nombre}' ha sido eliminada");
             }
         }
-
 
         public static void GuardarDatos() => SysArchivo.GuardarDatos(Misiones);
 

@@ -17,7 +17,6 @@
     3. *Modificar una misión existente*, permitiendo cambiar cualquier dato relevante.
     4. *Eliminar una misión* por su nombre.
  */
-using AgenciaEspacial.Enums;
 using AgenciaEspacial.Models;
 
 namespace ViajeEspacial
@@ -26,7 +25,6 @@ namespace ViajeEspacial
     {
         static void Main()
         {
-            GestionMisiones.CargarDatos();
             Menu.MostrarMenu();
         }
     }

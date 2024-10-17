@@ -4,15 +4,15 @@ namespace AgenciaEspacial.Models
 {
     public static class SysArchivo
     {
-        public static string archivoMisiones = "misiones.txt";
-
+        // navegamos manualmente a la carpeta raíz del proyecto.
+        public static string archivoMisiones = "../../../misiones.txt";
+        
         public static void GuardarDatos(List<Mision> misiones)
         {
             using StreamWriter writer = new StreamWriter(archivoMisiones);
 
             foreach (var mision in misiones)
             {
-                Console.WriteLine(mision);
                 writer.WriteLine(mision);
             }
         }
@@ -27,42 +27,46 @@ namespace AgenciaEspacial.Models
         {
             List<Mision> misiones = new List<Mision>();
 
-            if (File.Exists(archivoMisiones))
+            if (!File.Exists(archivoMisiones)) return misiones;
+            
+            using StreamReader reader = new StreamReader(archivoMisiones);
+
+            foreach (var linea in File.ReadAllLines(archivoMisiones))
             {
-                using StreamReader reader = new StreamReader(archivoMisiones);
+                string[] p = linea.Split(", ");
 
-                foreach (var linea in File.ReadAllLines(archivoMisiones))
+                // esto podría ser un enum.
+                string tipoMision = p[0];
+                string nombre = p[1];
+                Destino destino = (Destino)Enum.Parse(typeof(Destino), p[2]);
+                int astronautas = int.Parse(p[3]);
+
+                Mision m = null;
+                switch (tipoMision)
                 {
-                    string[] p = linea.Split(", ");
-
-                    // esto podría ser un enum.
-                    string tipoMision = p[0];
-                    string nombre = p[1];
-                    Destino destino = (Destino)Enum.Parse(typeof(Destino), p[2]);
-                    int astronautas = int.Parse(p[3]);
-
-                    Mision m = null;
-                    switch (tipoMision)
-                    {
-                        case "Exploracion":
-                            m = new Exploracion(nombre, destino, astronautas);
-                            break;
-                        case "Colonizacion":
-                            int colonos = int.Parse(p[4]);
-                            m = new Colonizacion(nombre, destino, astronautas, colonos);
-                            break;
-                        case "Investigacion":
-                            string campoInvestigacion = p[4];
-                            m = new Investigacion(nombre, destino, astronautas, campoInvestigacion);
-                            break;
-                    }
-                    misiones.Add(m);
+                    case "Exploracion":
+                        m = new Exploracion(nombre, destino, astronautas);
+                        break;
+                    case "Colonizacion":
+                        int colonos = int.Parse(p[4]);
+                        m = new Colonizacion(nombre, destino, astronautas, colonos);
+                        break;
+                    case "Investigacion":
+                        string campoInvestigacion = p[4];
+                        m = new Investigacion(nombre, destino, astronautas, campoInvestigacion);
+                        break;
                 }
+                misiones.Add(m);
             }
-
             return misiones;
         }
     }
 }
 
 // Hacer un enum para el tipo de misión y un switch parseandolo para compararlo en un switch
+
+/*
+    if(tipoMision == typeof(Exploracion).Name){ tal } 
+    if(tipoMision == typeof(Colonizacion).Name){ tal } 
+    if(tipoMision == typeof(Investigacion).Name){ tal } 
+*/

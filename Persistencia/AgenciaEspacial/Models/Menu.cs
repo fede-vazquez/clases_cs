@@ -15,6 +15,7 @@ namespace AgenciaEspacial.Models
         };
         public static void MostrarMenu()
         {
+            GestionMisiones.CargarDatos();
             bool salir = false;
 
             while(!salir)
