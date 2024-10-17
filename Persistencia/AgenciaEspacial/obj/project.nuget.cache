@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Si9T1uaivbb3y3pka7QjvKfHtvpj5UZL1yQ3Ht8n65KqEHjgYXkvYsduR7rkqgQIyRnYVE1f6tRacEUUamUPyg==",
+  "dgSpecHash": "HDpoQBzYQbY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fvazquez\\Desktop\\repos\\clases_cs\\Persistencia\\AgenciaEspacial\\AgenciaEspacial.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\mis-repos\\clases_cs\\Persistencia\\AgenciaEspacial\\AgenciaEspacial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

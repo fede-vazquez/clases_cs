@@ -3,11 +3,11 @@
     public static class GestionMisiones
     {
         public static List<Mision> Misiones { get; private set; } = new List<Mision>();
-        public static string archivoMisiones = "misiones.txt";
 
         public static void AgregarMision(Mision mision)
         {
             Misiones.Add(mision);
+            SysArchivo.GuardarMision(mision);
             Console.WriteLine($"Misión '{mision.Nombre}' agregada con exito.");
         }
 
@@ -58,6 +58,9 @@
                 Console.WriteLine($"Misión '{nombre}' ha sido eliminada");
             }
         }
+
+
+        public static void GuardarDatos() => SysArchivo.GuardarDatos(Misiones);
     }
 }
 

@@ -26,7 +26,7 @@ namespace ViajeEspacial
     {
         static void Main()
         {
-            Mision mision = new Exploracion("Nos fuimos", Destino.Marte, 16);
+            Menu.MostrarMenu();
         }
     }
 }

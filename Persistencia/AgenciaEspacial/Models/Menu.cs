@@ -24,15 +24,16 @@ namespace AgenciaEspacial.Models
                     "2. Mostrar misiones\n" +
                     "3. Modificar misión\n" +
                     "4. Eliminar misión\n" +
-                    "5. Salir\n");
+                    "5. Guardar y Salir\n");
 
-                Console.WriteLine("Seleccione una ocpión: ");
+                Console.Write("Seleccione una opción: ");
                 string opcion = Console.ReadLine();
 
                 if(int.TryParse(opcion, out int indice) && indice >= 1 && indice <= acciones.Count + 1)
                 {
                     if(indice == acciones.Count + 1)
                     {
+                        GestionMisiones.GuardarDatos();
                         salir = true;
                     }
                     else
@@ -40,11 +41,20 @@ namespace AgenciaEspacial.Models
                         acciones[indice - 1].Invoke();
                     }
                 }
+                else
+                {
+                    Console.WriteLine("Opción no válida.");
+                }
             }
         }
 
         static Mision CrearMision(string nombre)
         {
+            Console.WriteLine("Seleccione el destino:");
+            foreach (var destino in Enum.GetValues(typeof(Destino)))
+            {
+                Console.WriteLine($"{(int)destino}. {destino}");
+            }
             int seleccion = int.Parse(Console.ReadLine());
 
             Destino destinoSeleccionado = (Destino)seleccion;
