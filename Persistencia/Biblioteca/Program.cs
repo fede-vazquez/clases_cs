@@ -8,13 +8,6 @@ namespace Biblioteca
         {
             SysBiblioteca.CargarDatos();
             int opcion;
-            Console.WriteLine("1. Agregar libro.");
-            Console.WriteLine("2. Agregar usuario.");
-            Console.WriteLine("3. Realizar prestamo.");
-            Console.WriteLine("4. Devolver libro.");
-            Console.WriteLine("5. Mostrar libros.");
-            Console.WriteLine("6. Mostrar usuarios.");
-            Console.WriteLine("7. Guardar y Salir.");
             do
             {
                 try
