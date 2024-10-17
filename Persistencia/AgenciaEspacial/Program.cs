@@ -26,6 +26,7 @@ namespace ViajeEspacial
     {
         static void Main()
         {
+            GestionMisiones.CargarDatos();
             Menu.MostrarMenu();
         }
     }

@@ -61,6 +61,8 @@
 
 
         public static void GuardarDatos() => SysArchivo.GuardarDatos(Misiones);
+
+        public static void CargarDatos() => Misiones = SysArchivo.CargarDatos();
     }
 }
 
