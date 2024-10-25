@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\bin\Debug\net6.0\Argumentos.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\bin\Debug\net6.0\Argumentos.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\bin\Debug\net6.0\Argumentos.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\bin\Debug\net6.0\Argumentos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\bin\Debug\net6.0\Argumentos.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\refint\Argumentos.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\Argumentos.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Argumentos\obj\Debug\net6.0\ref\Argumentos.dll
