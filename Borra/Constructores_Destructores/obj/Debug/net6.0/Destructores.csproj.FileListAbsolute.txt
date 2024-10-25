@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\bin\Debug\net6.0\Destructores.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\bin\Debug\net6.0\Destructores.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\bin\Debug\net6.0\Destructores.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\bin\Debug\net6.0\Destructores.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\bin\Debug\net6.0\Destructores.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\refint\Destructores.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\Destructores.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores_Destructores\obj\Debug\net6.0\ref\Destructores.dll

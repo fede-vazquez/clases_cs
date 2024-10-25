@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\bin\Debug\net6.0\Constructores.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\bin\Debug\net6.0\Constructores.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\bin\Debug\net6.0\Constructores.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\bin\Debug\net6.0\Constructores.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\bin\Debug\net6.0\Constructores.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.sourcelink.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\refint\Constructores.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\Constructores.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\Constructores\obj\Debug\net6.0\ref\Constructores.dll
