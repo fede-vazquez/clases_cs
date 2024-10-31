@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("introduccion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Destructores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7628c70eadd898478480ee209606e889ad5226aa")]
-[assembly: System.Reflection.AssemblyProductAttribute("introduccion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("introduccion")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6da4d9cf60106203dfda9d21de54df5db9f2892e")]
+[assembly: System.Reflection.AssemblyProductAttribute("Destructores")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Destructores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
