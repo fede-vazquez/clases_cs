@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\bin\Debug\net6.0\VehiculoPatronBuilder.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\bin\Debug\net6.0\VehiculoPatronBuilder.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\bin\Debug\net6.0\VehiculoPatronBuilder.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\bin\Debug\net6.0\VehiculoPatronBuilder.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\bin\Debug\net6.0\VehiculoPatronBuilder.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.csproj.AssemblyReference.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\refint\VehiculoPatronBuilder.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\VehiculoPatronBuilder.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\VehiculoPatronBuilder\obj\Debug\net6.0\ref\VehiculoPatronBuilder.dll
