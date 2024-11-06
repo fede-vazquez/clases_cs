@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructores", "Constructo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Argumentos", "Argumentos\Argumentos.csproj", "{8BB76EFB-2C0E-4F6C-B79F-01371A444759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "Delegados\Delegados.csproj", "{9AC6836E-D575-490E-870A-FC9567D070C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegados", "Delegados\Delegados.csproj", "{9AC6836E-D575-490E-870A-FC9567D070C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronBuilder", "PatronBuilder\PatronBuilder.csproj", "{672592C5-E5AD-4402-BB06-43B93033D2D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9AC6836E-D575-490E-870A-FC9567D070C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AC6836E-D575-490E-870A-FC9567D070C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AC6836E-D575-490E-870A-FC9567D070C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672592C5-E5AD-4402-BB06-43B93033D2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672592C5-E5AD-4402-BB06-43B93033D2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672592C5-E5AD-4402-BB06-43B93033D2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672592C5-E5AD-4402-BB06-43B93033D2D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
