@@ -1,0 +1,15 @@
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\bin\Debug\net6.0\PatronBuilder.exe
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\bin\Debug\net6.0\PatronBuilder.deps.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\bin\Debug\net6.0\PatronBuilder.runtimeconfig.json
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\bin\Debug\net6.0\PatronBuilder.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\bin\Debug\net6.0\PatronBuilder.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.csproj.AssemblyReference.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.AssemblyInfoInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.AssemblyInfo.cs
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.csproj.CoreCompileInputs.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\refint\PatronBuilder.dll
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.pdb
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\PatronBuilder.genruntimeconfig.cache
+C:\Users\fvazquez\Desktop\repos\clases_cs\Borra\PatronBuilder\obj\Debug\net6.0\ref\PatronBuilder.dll
